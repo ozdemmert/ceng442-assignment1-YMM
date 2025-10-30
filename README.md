@@ -63,7 +63,7 @@ Implemented Azerbaijani-aware pipeline with: emoji mapping, HTML cleaning, token
 
 *Requirements:* Python 3.10+, pandas, gensim, openpyxl, regex
 
-*Note:* You should download the **embeddings** folder in order to use pretrained models and add it to the folder where the code is located. **embeddings** link:
+*Note:* You should download the **embeddings** folder in order to use pretrained models and add it to the folder where the code is located. **embeddings** link: https://drive.google.com/drive/folders/1isOFQh_TdhJbk57wWTcgv0HhypPByxuw?usp=sharing
 
 *Run:*
 bash
